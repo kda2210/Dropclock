@@ -1,6 +1,6 @@
 # DROPCLOCK
 
-A Web Version of the famous Dropclock Screensaver. Find a live version [here](https://rafaelmaeuer.de/clock/dropclock).
+A Web Version of the famous Dropclock Screensaver. Find a live version [here](https://kda2210.github.io/Dropclock).
 
 ![Dropclock Web](img/preview.gif)
 
@@ -22,7 +22,3 @@ This version is build to run on a Raspberry Pi 3+, therefore mp4 instead of swf 
 - [x] Add random start delay
 - [x] Implement basic swf playback
 - [x] Setup base layout
-
-### Credits
-
-Original taken from [scr.sc](https://scr.sc)
