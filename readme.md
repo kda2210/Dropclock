@@ -10,7 +10,7 @@ This is an adaption of the Dropclock Screensaver to run in web browsers. Press `
 
 ### Platform
 
-This version is build to run on a Raspberry Pi 3+, therefore mp4 instead of swf files are necessary due to performance issues. The original version (using flash) might be available later.
+This version is build to run on a Raspberry Pi 3+, therefore mp4 instead of swf files are necessary due to performance issues. 
 
 ### Improvements
 
